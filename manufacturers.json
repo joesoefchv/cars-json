@@ -1,0 +1,72 @@
+[
+  {
+    "id": "MANUFACTURER-001",
+    "name": "Audi AG",
+    "logoUrl": "https://example.com/images/manufacturers/audi-logo.jpg",
+    "foundedYear": 1909,
+    "headquarters": "Ingolstadt, Germany"
+  },
+  {
+    "id": "MANUFACTURER-002",
+    "name": "BMW Group",
+    "logoUrl": "https://example.com/images/manufacturers/bmw-logo.jpg",
+    "foundedYear": 1916,
+    "headquarters": "Munich, Germany"
+  },
+  {
+    "id": "MANUFACTURER-003",
+    "name": "Ferrari S.p.A.",
+    "logoUrl": "https://example.com/images/manufacturers/ferrari-logo.jpg",
+    "foundedYear": 1939,
+    "headquarters": "Maranello, Italy"
+  },
+  {
+    "id": "MANUFACTURER-004",
+    "name": "Bugatti Automobiles S.A.S.",
+    "logoUrl": "https://example.com/images/manufacturers/bugatti-logo.jpg",
+    "foundedYear": 1909,
+    "headquarters": "Molsheim, France"
+  },
+  {
+    "id": "MANUFACTURER-005",
+    "name": "Automobili Lamborghini S.p.A.",
+    "logoUrl": "https://example.com/images/manufacturers/lamborghini-logo.jpg",
+    "foundedYear": 1963,
+    "headquarters": "Sant'Agata Bolognese, Italy"
+  },
+  {
+    "id": "MANUFACTURER-006",
+    "name": "Mercedes-Benz AG",
+    "logoUrl": "https://example.com/images/manufacturers/mercedes-logo.jpg",
+    "foundedYear": 1926,
+    "headquarters": "Stuttgart, Germany"
+  },
+  {
+    "id": "MANUFACTURER-007",
+    "name": "Porsche AG",
+    "logoUrl": "https://example.com/images/manufacturers/porsche-logo.jpg",
+    "foundedYear": 1931,
+    "headquarters": "Stuttgart, Germany"
+  },
+  {
+    "id": "MANUFACTURER-008",
+    "name": "McLaren Automotive",
+    "logoUrl": "https://example.com/images/manufacturers/mclaren-logo.jpg",
+    "foundedYear": 2010,
+    "headquarters": "Woking, England"
+  },
+  {
+    "id": "MANUFACTURER-009",
+    "name": "Tesla, Inc.",
+    "logoUrl": "https://example.com/images/manufacturers/tesla-logo.jpg",
+    "foundedYear": 2003,
+    "headquarters": "Palo Alto, California, USA"
+  },
+  {
+    "id": "MANUFACTURER-010",
+    "name": "Aston Martin Lagonda",
+    "logoUrl": "https://example.com/images/manufacturers/aston-martin-logo.jpg",
+    "foundedYear": 1913,
+    "headquarters": "Gaydon, England"
+  }
+]
