@@ -6,7 +6,7 @@
     "horsepower": 591,
     "isElectric": false,
     "releaseDate": "2020-01-15",
-    "imageUrl": "https://example.com/images/cars/audi-rs6-avant.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/joesoefchv/cars-json/refs/heads/main/audi.jpeg",
     "category": "Luxury Performance Wagon",
     "features": ["Quattro AWD", "Adaptive Air Suspension", "Virtual Cockpit"],
     "manufacturer": {
@@ -24,7 +24,7 @@
     "horsepower": 617,
     "isElectric": false,
     "releaseDate": "2021-03-10",
-    "imageUrl": "https://example.com/images/cars/bmw-m5-competition.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/joesoefchv/cars-json/refs/heads/main/bmw.jpeg",
     "category": "Luxury Sports Sedan",
     "features": ["M xDrive", "Adaptive M Suspension", "M Sport Exhaust"],
     "manufacturer": {
@@ -42,7 +42,7 @@
     "horsepower": 789,
     "isElectric": false,
     "releaseDate": "2019-06-25",
-    "imageUrl": "https://example.com/images/cars/ferrari-812-superfast.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/joesoefchv/cars-json/refs/heads/main/ferrari.jpeg",
     "category": "Supercar",
     "features": ["V12 Engine", "Active Aerodynamics", "Carbon Ceramic Brakes"],
     "manufacturer": {
@@ -60,7 +60,7 @@
     "horsepower": 1500,
     "isElectric": false,
     "releaseDate": "2018-04-01",
-    "imageUrl": "https://example.com/images/cars/bugatti-chiron.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/joesoefchv/cars-json/refs/heads/main/bugatti.jpeg",
     "category": "Hypercar",
     "features": ["Quad-Turbo W16", "Carbon Fiber Body", "Active Aerodynamics"],
     "manufacturer": {
@@ -78,7 +78,7 @@
     "horsepower": 759,
     "isElectric": false,
     "releaseDate": "2019-08-22",
-    "imageUrl": "https://example.com/images/cars/lamborghini-aventador-svj.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/joesoefchv/cars-json/refs/heads/main/lamborghini.jpeg",
     "category": "Supercar",
     "features": ["V12 Engine", "Rear-Wheel Steering", "Active Suspension"],
     "manufacturer": {
@@ -96,7 +96,7 @@
     "horsepower": 603,
     "isElectric": false,
     "releaseDate": "2021-11-12",
-    "imageUrl": "https://example.com/images/cars/mercedes-e63-amg.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/joesoefchv/cars-json/refs/heads/main/mercedes.jpeg",
     "category": "Luxury Performance Sedan",
     "features": ["AMG Performance 4MATIC+", "Air Body Control Suspension", "Burmester Audio"],
     "manufacturer": {
@@ -114,7 +114,7 @@
     "horsepower": 640,
     "isElectric": false,
     "releaseDate": "2022-05-05",
-    "imageUrl": "https://example.com/images/cars/porsche-911-turbo-s.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/joesoefchv/cars-json/refs/heads/main/porsche.jpeg",
     "category": "Sports Car",
     "features": ["Twin-Turbo Engine", "Porsche Active Suspension Management", "All-Wheel Drive"],
     "manufacturer": {
@@ -132,7 +132,7 @@
     "horsepower": 710,
     "isElectric": false,
     "releaseDate": "2021-09-14",
-    "imageUrl": "https://example.com/images/cars/mclaren-720s.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/joesoefchv/cars-json/refs/heads/main/mclaren.jpeg",
     "category": "Supercar",
     "features": ["Carbon Fiber Chassis", "Active Aero", "Proactive Chassis Control"],
     "manufacturer": {
@@ -150,7 +150,7 @@
     "horsepower": 1020,
     "isElectric": true,
     "releaseDate": "2021-06-10",
-    "imageUrl": "https://example.com/images/cars/tesla-model-s-plaid.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/joesoefchv/cars-json/refs/heads/main/tesla.jpeg",
     "category": "Electric Luxury Sedan",
     "features": ["Tri-Motor AWD", "Autopilot", "Long Range Battery"],
     "manufacturer": {
@@ -168,7 +168,7 @@
     "horsepower": 528,
     "isElectric": false,
     "releaseDate": "2020-02-14",
-    "imageUrl": "https://example.com/images/cars/aston-martin-db11.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/joesoefchv/cars-json/refs/heads/main/aston%20martin.jpeg",
     "category": "Grand Tourer",
     "features": ["Adaptive Damping System", "Luxurious Interior", "V8 Engine"],
     "manufacturer": {
