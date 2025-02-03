@@ -1,0 +1,182 @@
+[
+  {
+    "id": "CAR-001",
+    "name": "Audi RS6 Avant",
+    "description": "A high-performance station wagon with a powerful twin-turbocharged V8 engine and quattro all-wheel drive system.",
+    "horsepower": 591,
+    "isElectric": false,
+    "releaseDate": "2020-01-15",
+    "imageUrl": "https://example.com/images/cars/audi-rs6-avant.jpg",
+    "category": "Luxury Performance Wagon",
+    "features": ["Quattro AWD", "Adaptive Air Suspension", "Virtual Cockpit"],
+    "manufacturer": {
+      "id": "MANUFACTURER-001",
+      "name": "Audi AG",
+      "logoUrl": "https://example.com/images/manufacturers/audi-logo.jpg",
+      "foundedYear": 1909,
+      "headquarters": "Ingolstadt, Germany"
+    }
+  },
+  {
+    "id": "CAR-002",
+    "name": "BMW M5 Competition",
+    "description": "A high-performance sedan with a 4.4-liter twin-turbo V8 engine and M xDrive all-wheel drive system.",
+    "horsepower": 617,
+    "isElectric": false,
+    "releaseDate": "2021-03-10",
+    "imageUrl": "https://example.com/images/cars/bmw-m5-competition.jpg",
+    "category": "Luxury Sports Sedan",
+    "features": ["M xDrive", "Adaptive M Suspension", "M Sport Exhaust"],
+    "manufacturer": {
+      "id": "MANUFACTURER-002",
+      "name": "BMW Group",
+      "logoUrl": "https://example.com/images/manufacturers/bmw-logo.jpg",
+      "foundedYear": 1916,
+      "headquarters": "Munich, Germany"
+    }
+  },
+  {
+    "id": "CAR-003",
+    "name": "Ferrari 812 Superfast",
+    "description": "A front-engine V12 supercar delivering breathtaking performance and stunning Italian design.",
+    "horsepower": 789,
+    "isElectric": false,
+    "releaseDate": "2019-06-25",
+    "imageUrl": "https://example.com/images/cars/ferrari-812-superfast.jpg",
+    "category": "Supercar",
+    "features": ["V12 Engine", "Active Aerodynamics", "Carbon Ceramic Brakes"],
+    "manufacturer": {
+      "id": "MANUFACTURER-003",
+      "name": "Ferrari S.p.A.",
+      "logoUrl": "https://example.com/images/manufacturers/ferrari-logo.jpg",
+      "foundedYear": 1939,
+      "headquarters": "Maranello, Italy"
+    }
+  },
+  {
+    "id": "CAR-004",
+    "name": "Bugatti Chiron",
+    "description": "A hypercar masterpiece with an 8.0-liter quad-turbocharged W16 engine and unparalleled luxury.",
+    "horsepower": 1500,
+    "isElectric": false,
+    "releaseDate": "2018-04-01",
+    "imageUrl": "https://example.com/images/cars/bugatti-chiron.jpg",
+    "category": "Hypercar",
+    "features": ["Quad-Turbo W16", "Carbon Fiber Body", "Active Aerodynamics"],
+    "manufacturer": {
+      "id": "MANUFACTURER-004",
+      "name": "Bugatti Automobiles S.A.S.",
+      "logoUrl": "https://example.com/images/manufacturers/bugatti-logo.jpg",
+      "foundedYear": 1909,
+      "headquarters": "Molsheim, France"
+    }
+  },
+  {
+    "id": "CAR-005",
+    "name": "Lamborghini Aventador SVJ",
+    "description": "A naturally aspirated V12 supercar that delivers jaw-dropping speed and aggressive styling.",
+    "horsepower": 759,
+    "isElectric": false,
+    "releaseDate": "2019-08-22",
+    "imageUrl": "https://example.com/images/cars/lamborghini-aventador-svj.jpg",
+    "category": "Supercar",
+    "features": ["V12 Engine", "Rear-Wheel Steering", "Active Suspension"],
+    "manufacturer": {
+      "id": "MANUFACTURER-005",
+      "name": "Automobili Lamborghini S.p.A.",
+      "logoUrl": "https://example.com/images/manufacturers/lamborghini-logo.jpg",
+      "foundedYear": 1963,
+      "headquarters": "Sant'Agata Bolognese, Italy"
+    }
+  },
+  {
+    "id": "CAR-006",
+    "name": "Mercedes-Benz E63 AMG",
+    "description": "A luxury performance sedan featuring a handcrafted AMG V8 engine and advanced technology.",
+    "horsepower": 603,
+    "isElectric": false,
+    "releaseDate": "2021-11-12",
+    "imageUrl": "https://example.com/images/cars/mercedes-e63-amg.jpg",
+    "category": "Luxury Performance Sedan",
+    "features": ["AMG Performance 4MATIC+", "Air Body Control Suspension", "Burmester Audio"],
+    "manufacturer": {
+      "id": "MANUFACTURER-006",
+      "name": "Mercedes-Benz AG",
+      "logoUrl": "https://example.com/images/manufacturers/mercedes-logo.jpg",
+      "foundedYear": 1926,
+      "headquarters": "Stuttgart, Germany"
+    }
+  },
+  {
+    "id": "CAR-007",
+    "name": "Porsche 911 Turbo S",
+    "description": "A sports car icon with a twin-turbocharged flat-six engine and all-wheel drive.",
+    "horsepower": 640,
+    "isElectric": false,
+    "releaseDate": "2022-05-05",
+    "imageUrl": "https://example.com/images/cars/porsche-911-turbo-s.jpg",
+    "category": "Sports Car",
+    "features": ["Twin-Turbo Engine", "Porsche Active Suspension Management", "All-Wheel Drive"],
+    "manufacturer": {
+      "id": "MANUFACTURER-007",
+      "name": "Porsche AG",
+      "logoUrl": "https://example.com/images/manufacturers/porsche-logo.jpg",
+      "foundedYear": 1931,
+      "headquarters": "Stuttgart, Germany"
+    }
+  },
+  {
+    "id": "CAR-008",
+    "name": "McLaren 720S",
+    "description": "A lightweight supercar with a carbon-fiber chassis and breathtaking acceleration.",
+    "horsepower": 710,
+    "isElectric": false,
+    "releaseDate": "2021-09-14",
+    "imageUrl": "https://example.com/images/cars/mclaren-720s.jpg",
+    "category": "Supercar",
+    "features": ["Carbon Fiber Chassis", "Active Aero", "Proactive Chassis Control"],
+    "manufacturer": {
+      "id": "MANUFACTURER-008",
+      "name": "McLaren Automotive",
+      "logoUrl": "https://example.com/images/manufacturers/mclaren-logo.jpg",
+      "foundedYear": 2010,
+      "headquarters": "Woking, England"
+    }
+  },
+  {
+    "id": "CAR-009",
+    "name": "Tesla Model S Plaid",
+    "description": "A groundbreaking electric luxury sedan with blistering acceleration and cutting-edge technology.",
+    "horsepower": 1020,
+    "isElectric": true,
+    "releaseDate": "2021-06-10",
+    "imageUrl": "https://example.com/images/cars/tesla-model-s-plaid.jpg",
+    "category": "Electric Luxury Sedan",
+    "features": ["Tri-Motor AWD", "Autopilot", "Long Range Battery"],
+    "manufacturer": {
+      "id": "MANUFACTURER-009",
+      "name": "Tesla, Inc.",
+      "logoUrl": "https://example.com/images/manufacturers/tesla-logo.jpg",
+      "foundedYear": 2003,
+      "headquarters": "Palo Alto, California, USA"
+    }
+  },
+  {
+    "id": "CAR-010",
+    "name": "Aston Martin DB11",
+    "description": "A grand tourer with timeless design and a powerful twin-turbocharged V8 engine.",
+    "horsepower": 528,
+    "isElectric": false,
+    "releaseDate": "2020-02-14",
+    "imageUrl": "https://example.com/images/cars/aston-martin-db11.jpg",
+    "category": "Grand Tourer",
+    "features": ["Adaptive Damping System", "Luxurious Interior", "V8 Engine"],
+    "manufacturer": {
+      "id": "MANUFACTURER-010",
+      "name": "Aston Martin Lagonda",
+      "logoUrl": "https://example.com/images/manufacturers/aston-martin-logo.jpg",
+      "foundedYear": 1913,
+      "headquarters": "Gaydon, England"
+    }
+  }
+]
