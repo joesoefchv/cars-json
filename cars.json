@@ -82,11 +82,11 @@
     "category": "Supercar",
     "features": ["V12 Engine", "Rear-Wheel Steering", "Active Suspension"],
     "manufacturer": {
-      "id": "MANUFACTURER-005",
-      "name": "Automobili Lamborghini S.p.A.",
-      "logoUrl": "https://example.com/images/manufacturers/lamborghini-logo.jpg",
-      "foundedYear": 1963,
-      "headquarters": "Sant'Agata Bolognese, Italy"
+      "id": "MANUFACTURER-001",
+      "name": "Audi AG",
+      "logoUrl": "https://example.com/images/manufacturers/audi-logo.jpg",
+      "foundedYear": 1909,
+      "headquarters": "Ingolstadt, Germany"
     }
   },
   {
