@@ -29,10 +29,10 @@
   },
   {
     "id": "MANUFACTURER-005",
-    "name": "Automobili Lamborghini S.p.A.",
-    "logoUrl": "https://example.com/images/manufacturers/lamborghini-logo.jpg",
-    "foundedYear": 1963,
-    "headquarters": "Sant'Agata Bolognese, Italy"
+    "name": "Audi AG",
+    "logoUrl": "https://example.com/images/manufacturers/audi-logo.jpg",
+    "foundedYear": 1909,
+    "headquarters": "Ingolstadt, Germany"
   },
   {
     "id": "MANUFACTURER-006",
